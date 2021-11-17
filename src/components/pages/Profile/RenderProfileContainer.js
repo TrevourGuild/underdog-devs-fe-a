@@ -3,10 +3,8 @@ import { Link } from 'react-router-dom';
 import 'antd/dist/antd.css';
 import '../Dashboard/Admin/index.css';
 import { Layout, Menu, Breadcrumb } from 'antd';
-import { Calendar } from 'antd';
 
 import {
-  AppstoreOutlined,
   LaptopOutlined,
   LineChartOutlined,
   TeamOutlined,
